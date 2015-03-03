@@ -1,2 +1,4 @@
-# hello-world
-example project
+hello-world
+===========
+
+Beep boop, boobity bop.
